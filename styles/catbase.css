@@ -1,0 +1,56 @@
+*{
+	font-family:calibri;
+	box-sizing: border-box;
+	*/display:flex;*/
+}
+.bodyclass {
+	background-color: black;
+}
+.navlinks{
+	background-color:grey;
+	width:100%;
+	padding: 1rem;
+
+}
+
+main{
+	background-color:white;
+	width: 100%;
+	padding:1rem;
+	display:flex;
+}
+.bookmeowhead{
+	position:absolute;
+	right:1rem;
+	top:0.5rem;
+	color:red;
+}
+.mainheader{
+	color:white;
+	font-weight:normal;
+}
+.subheader{
+	color:grey;
+}
+.articlehead{
+	width:30rem;
+	height:30rem;
+}
+.sidebox{
+	width:24rem;
+	height:50rem;
+	border-style:solid;
+}
+img{
+	
+}
+figcaption{
+	position:auto;
+}
+.footer1{
+	color:white;
+}
+.emaillink{
+	color:red;
+	font-style:normal
+}
