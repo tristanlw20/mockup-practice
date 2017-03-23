@@ -97,7 +97,9 @@ main{
 }
 figure{
 	margin:0.5rem 0.5rem 0.5rem 0.5rem;
-	padding-bottom: 0.5rem;
+	padding-bottom: 1rem;
+	padding-left:2rem;
+	padding-right:2rem;
 }
 figcaption{
 	text-align:center;
